@@ -1,3 +1,6 @@
 *.IntLib
 **/History
 **/__Previews
+**.log
+**.LOG
+**/Project Outputs for **/
